@@ -45,5 +45,5 @@ public class Example {
 
 ## Supported Files
 Mp3 IDv3v1  
-Mp3 IDv3v2
+Mp3 IDv3v2  
 Flac
