@@ -1,0 +1,15 @@
+plugins {
+    id 'java'
+    id 'eclipse'
+}
+
+group = 'me.eldodebug'
+version = '1.0-SNAPSHOT'
+
+repositories {
+	mavenCentral()
+	maven { url 'https://www.jitpack.io' }
+}
+
+dependencies {
+}
