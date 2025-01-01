@@ -1,5 +1,6 @@
 # Jsmp
-Simple, high-level audio file metadata parsing library
+Simple, high-level audio file metadata parsing library  
+Written 100% in java with no external libraries
 
 ## Example
 
